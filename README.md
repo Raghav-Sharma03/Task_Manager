@@ -1,12 +1,12 @@
 # Task Manager App
 
-## 📌 Overview
+##  Overview
 
 This is a simple Task Manager application built using Flask (backend), React (frontend), and SQLite (database). It allows users to create, view, and delete tasks.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Backend: Python + Flask
 * Frontend: React (Vite)
@@ -15,7 +15,7 @@ This is a simple Task Manager application built using Flask (backend), React (fr
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Add Task
 * View Tasks
@@ -24,7 +24,7 @@ This is a simple Task Manager application built using Flask (backend), React (fr
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Backend
 
@@ -42,21 +42,21 @@ npm run dev
 
 ---
 
-## 🤖 AI Usage
+##  AI Usage
 
 * Used ChatGPT , GitHub Copilot to generate backend API and frontend UI
 * All code was reviewed, tested, and improved manually
 
 ---
 
-## ⚖️ Tradeoffs
+##  Tradeoffs
 
 * Used SQLite for simplicity instead of scalable DB like PostgreSQL
 * Minimal UI to focus on functionality and correctness
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add authentication (login/signup)
 * Add task filtering and search
