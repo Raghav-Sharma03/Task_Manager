@@ -42,13 +42,6 @@ npm run dev
 
 ---
 
-##  AI Usage
-
-* Used ChatGPT , GitHub Copilot to generate backend API and frontend UI
-* All code was reviewed, tested, and improved manually
-
----
-
 ##  Tradeoffs
 
 * Used SQLite for simplicity instead of scalable DB like PostgreSQL
